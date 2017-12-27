@@ -15,3 +15,15 @@ the pipeline on a single images (cell numbers 29 to 36)
 	#def pipeline(imagefile):
     #	image = mpimg.imread(imagefile)   
 	def pipeline(image):
+
+### Videos
+
+Processed video are to be found in the root folder of the project named
+ 
+solidWhiteRightOut.mp4
+
+solidYellowLeftOut.mp4
+
+challengeOut.mp4
+
+
